@@ -52,7 +52,7 @@
   1. 若使用IDE打开，需按 Maven 文件安装依赖
   2. 若在Tomcat中部署，Maven文件中已经配置好直接在线部署，使用 maven tomcat7:deploy 可直接在线部署 （需先配置好Tomcat）
   3. 导入数据库small.sql，在 \src\main\resources\jdbc.properties 中配置数据库
-  4. 默认后台地址 /admin ，账户密码为 admin 123456 ，新建用户在前台注册，需要后台权限需要在数据库的User表的group_列中将该用户的用户组设置为 superAdmin
+  4. 默认后台地址 /admin ，账户密码为 admin 123456 ，,新建用户在前台注册，需要后台权限需要在数据库的User表的group_列中将该用户的用户组设置为 superAdmin
   5. JDK >= 1.8、数据库 Mysql
 
 
