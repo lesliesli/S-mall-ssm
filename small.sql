@@ -1,4 +1,4 @@
-﻿# Host: localhost  (Version: 5.5.5-10.1.30-MariaDB)
+# Host: localhost  (Version: 5.5.5-10.1.30-MariaDB)
 # Date: 2018-02-25 21:06:11
 # Generator: MySQL-Front 5.3  (Build 4.269)
 
@@ -260,4 +260,6 @@ CREATE TABLE `cartitem` (
 #
 # Data for table "cartitem"
 #
+
+1
 
